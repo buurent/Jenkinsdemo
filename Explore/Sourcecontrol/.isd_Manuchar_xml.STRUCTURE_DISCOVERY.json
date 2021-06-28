@@ -1,0 +1,29 @@
+[
+   {
+      "objectGuid": "hG1mYYUt30liijB1qT40oj",
+      "objectName": "isd_Manuchar_xml",
+      "objectType": "STRUCTURE_DISCOVERY",
+      "path": "/Explore/Sourcecontrol",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": null,
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "01059I3000000000000J"
+         }
+      }
+   }
+]

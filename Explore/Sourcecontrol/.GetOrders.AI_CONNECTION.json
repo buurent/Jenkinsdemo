@@ -1,0 +1,48 @@
+[
+   {
+      "objectGuid": "6gUdnK9ZifpbuXdpYYDOKp",
+      "objectName": "GetOrders",
+      "objectType": "AI_CONNECTION",
+      "path": "/Explore/Sourcecontrol",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "application/json; charset=utf-8",
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": null,
+         "modelVersion": {
+            "major": 1,
+            "minor": 0
+         },
+         "objectRefs": [
+            "auaR3ZQFQcgg38EBRf6Hub"
+         ],
+         "repoInfo": {
+            "repoHandle": "8WhIppppppppppp-gt-1259045-2021-06-24T08:26:49.963Z::conn.xml"
+         }
+      }
+   },
+   {
+      "objectGuid": "auaR3ZQFQcgg38EBRf6Hub",
+      "objectName": "ActodersService",
+      "objectType": "AI_SERVICE_CONNECTOR",
+      "path": "/Explore/Manuchar",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "application/json; charset=utf-8",
+            "description": "This service is located at [https://emw1-cai.dm-em.informaticacloud.com/active-bpel/odata/v4/ACTOrder/](https://emw1-cai.dm-em.informaticacloud.com/active-bpel/odata/v4/ACTOrder/)",
+            "documentState": "VALID"
+         },
+         "contextAttributes": null,
+         "modelVersion": {
+            "major": 1,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "kgbdoPVm5Y6tMFy-gt-319984-2021-06-23T08:19:11.76Z::svc.xml"
+         }
+      }
+   }
+]

@@ -1,0 +1,142 @@
+[
+   {
+      "objectGuid": "3jqR9gOptigbnkQ748l28W",
+      "objectName": "mt_Load_invoice",
+      "objectType": "MTT",
+      "path": "/Explore/Sourcecontrol",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": null,
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [
+            "14FxL7gP0xbb4ymAYPp90Q",
+            "8WzQKycSTFVjhDheWuxLOq",
+            "5V2iga15jasfMlRqeShSeG",
+            "1brPOoKL4KAgM4jCK7zr2r"
+         ],
+         "repoInfo": {
+            "repoHandle": "01059I0Z00000000002P"
+         }
+      }
+   },
+   {
+      "objectGuid": "14FxL7gP0xbb4ymAYPp90Q",
+      "objectName": "manuchar_ff",
+      "objectType": "Connection",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": null,
+            "documentState": "COMPLETE"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "01059I0B000000000025"
+         }
+      }
+   },
+   {
+      "objectGuid": "8WzQKycSTFVjhDheWuxLOq",
+      "objectName": "Sideways.local",
+      "objectType": "AgentGroup",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": null,
+            "documentState": "VALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "01059I25000000000009"
+         }
+      }
+   },
+   {
+      "objectGuid": "5V2iga15jasfMlRqeShSeG",
+      "objectName": "c_Oracle_Sideays",
+      "objectType": "Connection",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": null,
+            "documentState": "COMPLETE"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "01059I0B00000000001I"
+         }
+      }
+   },
+   {
+      "objectGuid": "1brPOoKL4KAgM4jCK7zr2r",
+      "objectName": "Loading_Invoice",
+      "objectType": "DTEMPLATE",
+      "path": "/Explore/Sourcecontrol",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "01059I17000000000033"
+         }
+      }
+   }
+]

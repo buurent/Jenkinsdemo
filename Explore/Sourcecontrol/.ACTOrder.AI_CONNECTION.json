@@ -1,0 +1,24 @@
+[
+   {
+      "objectGuid": "8uUOlSCG0Tpbl1PnbpEpWW",
+      "objectName": "ACTOrder",
+      "objectType": "AI_CONNECTION",
+      "path": "/Explore/Sourcecontrol",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": null,
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": null,
+         "modelVersion": {
+            "major": 1,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "eBAGE7ppppppppp-gt-1186417-2021-06-24T07:42:42.066Z::conn.xml"
+         }
+      }
+   }
+]
